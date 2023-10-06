@@ -74,8 +74,8 @@ public class OSSUtil {
         // Endpoint以华东1（杭州）为例，其它Region请按实际情况填写。
         String endpoint = "https://oss-cn-shanghai.aliyuncs.com";
         // 阿里云账号AccessKey拥有所有API的访问权限，风险很高。强烈建议您创建并使用RAM用户进行API访问或日常运维，请登录RAM控制台创建RAM用户。
-        String accessKeyId = "LTAI5t8jz3fZ3sB9JZUEi7U3";
-        String accessKeySecret = "Swskt0DY1HWv0tTseviH7OOhtyEes6";
+        String accessKeyId = "";
+        String accessKeySecret = "";
         // 填写Bucket名称，例如examplebucket。
         String bucketName = "miracle-of-light";
         // 填写文件完整路径objectName。文件完整路径中不能包含Bucket名称。
